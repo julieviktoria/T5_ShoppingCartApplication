@@ -20,7 +20,7 @@ let products = [
     {
         name: "Eira Gold Hoops",
         tag: "2goldhoops",
-        price: 20,
+        price: 249,
         inCart: 0
     }
 ];
