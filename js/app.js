@@ -1,3 +1,5 @@
+let carts = document.querySelectorAll('.add-cart');
+
 let products = [ 
     {
         name: "Ymse Gold Chain",
